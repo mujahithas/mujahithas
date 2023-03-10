@@ -4,8 +4,8 @@
 
 <h3 align="left">Technical Experience and Interests:</h3>
 <ul>
-  <li>Automation Testing</li>
-  <li>Software Development</li>
+  <li>Manual Software Testing</li>
+  <li>Automation Software Testing</li>
 </ul>
 
 <h3 align="left">Languages and Tools:</h3>
