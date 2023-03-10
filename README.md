@@ -8,6 +8,19 @@
   <li>Automation Software Testing</li>
 </ul>
 
+<h3 align="left">Technical Skills:</h3>
+<ul>
+  <li>Knowledge on Understanding and Analyzing Test Requirements </li>
+  <li>Knowledge on various phases of SDLC and STLC </li>
+  <li>Knowledge on Agile Methodology </li>
+  <li>Knowledge on both Manual testing and Automation Testing</li>
+  <li>Ability to create Test Scenarios, Test Cases and Collect Test Data</li>
+  <li>Knowledge on python programming (core python)</li>
+  <li>Knowledge on API testing with Postman)</li>
+  <li>Knowledge on Jenkins</li>
+  
+</ul>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://www.python.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
