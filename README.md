@@ -2,6 +2,9 @@
 
 <h2 align="center">I'm Mohamed Mujahith</h2>
 
+<h3 align="left">Summary:</h3>
+<p>Test Analyst in Manual and Automation Testing along with extensive knowledge in Core Python and Selenium in Information Technology industry. Aspiring to grow with an organization that provides ample opportunities for continuous learning in a professional atmosphere and to implement what I have learnt to attain a higher level of knowledge.</p>
+
 <h3 align="left">Technical Experience and Interests:</h3>
 <ul>
   <li>Manual Software Testing</li>
