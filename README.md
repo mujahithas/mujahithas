@@ -34,7 +34,7 @@
 
 <h3 align="left">Hobbies and Interests:</h3>
 <ul>
-  <li>Gym</li>
+  <li>Swimming</li>
   <li>Book Reading</li>
   <li>Travel</li>
 </ul>
